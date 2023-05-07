@@ -1,5 +1,8 @@
 ### Hi there, I'm Nacho! 
-Currently working as Aerodynamics Engineer and passionate about financial markets. I sometimes code to extract useful financial information or help to retrieve data from my broker's report
+- Currently working as Aerodynamics Engineer at Airbus ✈️
+- Passionate about financial markets.
+- I sometimes write code to extract financial information from companies
+- Lately working on an app to help people compute returns on their broker annual report
 
 <!--
 **imMoya/imMoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
