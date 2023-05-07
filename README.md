@@ -1,7 +1,7 @@
 ### Hi there, I'm Nacho! 
-- Currently working as Aerodynamics Engineer at Airbus ✈️
-- Passionate about financial markets.
-- I sometimes write code to extract financial information from companies
+- ✈️ Currently working as Aerodynamics Engineer at Airbus 
+- 🏦 Passionate about financial markets.
+- 👨‍💻 I sometimes write code to extract financial information from companies
 - Lately working on an app to help people compute returns on their broker annual report
 
 <!--
