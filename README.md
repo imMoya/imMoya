@@ -1,9 +1,9 @@
 ### Hi there, I'm Nacho! 
-- ✈️ Currently working as Aerodynamics Engineer at Airbus 
-- 🏦 Passionate about financial markets.
-- 👨‍💻 I sometimes write code to extract financial information from companies
-- 💻 Lately working on an app to help people compute returns on their broker annual report
-- 🏗️ Building a RAG to extract financial information from odd-lots reports
+- ✈️ Currently working as Simulation Engineer at Pasteur Labs
+- 🚀 Extremely excited about the future of [Simulation Intelligence](https://pasteurlabs.ai/research/)
+- 🏦 Passionate about financial markets
+- 💻 Lately working on apps for retail investors to comply with Spanish laws
+- 🏗️ Built a RAG to extract financial information from odd-lots reports
 
 <!--
 **imMoya/imMoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
